@@ -1,0 +1,7 @@
+domain: edas.io
+repo: dome3
+resources:
+- group: apps
+  kind: Application
+  version: v1alpha1
+version: "2"
